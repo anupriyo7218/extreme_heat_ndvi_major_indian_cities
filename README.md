@@ -19,7 +19,7 @@ Using satellite-based datasets (MODIS), the project explores:
 
 ## 🗺️ Interactive Map (Google Earth Engine)
 
-👉 **Click below to explore the live geospatial dashboard:**
+👉 **Click to explore the live geospatial dashboard:**
 🔗 [Open Interactive Map (GEE)](https://code.earthengine.google.com/1bde1fbfccb0b32777649743f5739210?authuser=1)
 ### 🔄 Switching Between Cities
 
