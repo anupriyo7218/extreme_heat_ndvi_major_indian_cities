@@ -21,6 +21,27 @@ Using satellite-based datasets (MODIS), the project explores:
 
 👉 **Click below to explore the live geospatial dashboard:**
 🔗 [Open Interactive Map (GEE)](https://code.earthengine.google.com/1bde1fbfccb0b32777649743f5739210?authuser=1)
+### 🔄 Switching Between Cities
+
+The map supports multiple cities: Kolkata, Delhi, Mumbai, and Bangalore.
+
+To explore a different city:
+
+1. Open the script in Google Earth Engine
+2. Locate the city selection line:
+
+   ```javascript
+   var selectedCity = 'Kolkata';
+   ```
+3. Replace `'Kolkata'` with:
+
+   * `'Delhi'`
+   * `'Mumbai'`
+   * `'Bangalore'`
+4. Click **Run** to update the map
+
+This allows dynamic comparison of heatwave intensity and vegetation across major Indian cities.
+
 
 ### Features:
 
